@@ -1,25 +1,141 @@
 <html>
+
 <head>
+    <script src="https://juxinglong.github.io/static/iframe-resizer/iframeResizer.contentWindow.min.js"></script>
     <title>MIS 3033 March 7</title>
-    <link rel="icon" href="head1.png"/>
+    <link rel="icon" href="head1.png" />
+
+    <style>
+        #main
+        {
+            width:800px;
+            height:700px;
+            background-color:antiquewhite;
+            margin:10px;
+            margin-left:auto;
+            margin-right:auto;
+            display:flex;
+            flex-direction:column;
+            justify-content:start;
+            align-items:start;
+           /* display:flex;
+            flex-direction:row;
+            justify-content:center;
+            align-items:end;*/
+        }
+
+        .style1
+        {
+            width:100px;
+            height:150px;
+            background-color:aquamarine;
+            margin:10px;
+        }
+
+        #div1
+        {
+            background-color:lightcoral;
+            width:600px;
+            height:100px;
+            display:flex;
+            flex-direction:row;
+
+        }
+        #div2 {
+            background-color: lightgray;
+            width: 600px;
+            height: 300px;
+            display:flex;
+            flex-direction:row;
+        }
+
+        #div21{
+            background-color:crimson;
+            width:33%;
+            display:flex;
+            flex-direction:row;
+            justify-content:center;
+            align-items: center;
+        }
+        #div22 {
+            background-color: indianred;
+            width: 33%;
+            display:flex;
+            flex-direction:row;
+            justify-content:end;
+            align-items:end;
+        }
+        #div23 {
+            background-color: fuchsia;
+            width: 33%;
+        }
+
+
+        #div3 {
+            background-color: lightcyan;
+            width: 600px;
+            height: 100px;
+        }
+        #div4 {
+            background-color: lightsteelblue;
+            width: 600px;
+            height: 100px;
+        }
+
+        #div11
+        {
+            display:flex;
+            flex-direction:row;
+            justify-content:start;
+            align-items:end;
+        }
+
+        #div12
+        {
+            display:flex;
+            flex-direction:column;
+            justify-content:start;
+            align-items:end;
+        }
+    </style>
+
 </head>
 
-<div style="background-color:lightblue;">
 
-    <div style="background-color:lightgreen;width:200px;height:200px;margin:10px;border-radius:20%">
-        <img src="a.svg" style="width:150px;"/>
-         </div>
+<body>
+    <div id="main" style="">
 
-    <div style="background-color:lightgreen;width:200px;height:200px;margin:10px;">
-        <img src="b.svg" style="width:150px;" />
+        <div id="div1">
+            <div id="div11" style="width:50%;background-color:aliceblue;">
+                <img src="a.svg" style="height:80px"/>
+            </div>
+
+            <div id="div12" style="width:50%;background-color:goldenrod;">
+                <img src="b.svg" style="height:80px"/>
+            </div>
         </div>
 
-    <div style="background-color:lightgreen;width:200px;height:200px;margin:10px;">
-        <img src="head1.png" style="width:150px; border-radius:50%;" />
-         </div>
+        <div id="div2">
+            <div id="div21">
+                <img src ="head1.png" style="height:150px;"/>
+            </div>
+
+            <div id="div22">
+                <img src="head2.png" style="height:150px;" />
+            </div>
+
+            <div id="div23">
+                <img src="head2.png" style="height:150px;" />
+            </div>
+        </div>
 
 
-</div>
+        <div id="div3"> div3</div>
+        <div id="div4"> div4</div>
+
+    </div>
+
+</body>
 
 
 
