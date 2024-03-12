@@ -5,22 +5,21 @@
 <head>
     <title>MIS 3033 March 11 / 12 JavaScript</title>
     <link rel="icon" href="head1.png" />
-    
+
 
     <style>
-        #div1{
-            width:200px;
-            height:150px;
-            background-color:lightblue;
+        #div1 {
+            width: 200px;
+            height: 150px;
+            background-color: lightblue;
         }
 
-        #img1
-        {
-            height:150px;
+        #img1 {
+            height: 150px;
         }
-        #img2
-        {
-            height:200px;
+
+        #img2 {
+            height: 200px;
         }
     </style>
 
@@ -28,6 +27,120 @@
 </head>
 
 <body>
+
+    <script>
+        // Javascript, script language, it is easy
+        // Adobe => Adobe Flash => ActionScript ()
+        // Two: BScript JavaScript
+        // LiveScript => JavaScript
+        // Java and JavaScript are different
+
+
+        //  JavaScript not type safe () low wfficient, more rules
+        // C# Java is type safe ()
+
+        // JavaScript (web page)
+        //
+
+        "use strict"; // ask JavaScript behave like C# Java
+        const a1 = 20; //local
+        let a2;// let is the key word to define a local variable
+        // a2 undefined
+        let a3;// undefined local
+        a2 = 19;// number
+        var a4;// global undefined
+        a4 = 128.8;// number
+
+        //alert(a4);
+        //alert(a3);
+
+        {// walls , boundary of a world, scope, block
+            let b1;// defined a local variable
+            b1 = "Tom";// string
+            console.log(b1);
+
+            var b2; // global
+            b2 = 100;
+            console.log(b2);
+        }
+
+    </script>
+
+    <script>
+        "use strict";
+        //alert(a4);
+        console.log(a4);
+        //console.log(b1);
+        console.log(b2);
+
+        // string
+        let s1;//
+        s1 = 100; //valid
+        s1 = "Tom";// string
+        s1 = 'Tom';
+
+        let age1;
+        age1 = 20;
+        let name1;
+        name1 = 'Tom';
+
+        let s2;
+        s2 = `The name is ${name1} The age is ${age1}`;// string
+        console.log(s2);
+        // html css (not programing, no if else no loop)
+        // JavaScript
+        // let (90%) var
+        // `${} ${}`
+        //
+
+        let stu1 = {
+            age: 19,
+            name: "tom",
+            grade: 96.6,
+            weight: 128.8,
+        }; // object, dictionary
+
+        console.log(stu1.weight);
+
+        // array, list map()
+        let arr1;
+        arr1 = [20, 19, 22];
+        console.log(arr1.length);
+        console.log(arr1[1]);
+
+        // how to define functions in JS
+        // way 1 (no let before the p1)
+        function func1(p1, p2) {
+            return p1 + p2;
+        }
+
+        let r1 = func1(2.3, 3.6);
+        console.log(r1);
+
+        let fc1;//undefined
+        fc1 = func1;//
+        r1 = fc1(2, 3);
+        console.log(r1);
+
+        //way 2 arrow function
+        let fc2;// undefined
+        fc2 = (p1, p2) => { return p1 * p2 };
+
+        r1 = fc2(2, 3);
+        console.log(r1);
+
+        arr1 = [20, 19, 22]; //array
+        // map() will result in new array
+        let arr2;
+        arr2 = arr1.map((x) => { return x * 2; });
+        console.log(arr2);
+        console.log(arr1);
+
+
+
+    </script>
+
+
     <div id="div1"></div>
     <img id="img1" src="head1.png">
     <img id="img2" src="b.svg">
