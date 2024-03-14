@@ -28,19 +28,133 @@
 
     <link href="https://juxinglong.github.io/static/MIS3033.css" rel="stylesheet" />
 
-    <script src="https://juxinglong.github.io/static/iframe-resizer/iframeResizer.contentWindow.min.js"></script>
-
     <title>March 14 MIS 3033</title>
     <link rel="icon" href="static/head1.png" />
 </head>
 
 <body>
 
-    <img id="img1" src="static/head1.png" style="height:200px;"/>
-    <img id="img2" src="static/a.svg" style="height:200px;"/>
-    <img id="img3" src="static/b.svg" style="height:200px;"/>
+    <div id="d"></div>
+    <script>
+        "use strict";
+        document.querySelector("#d").style.backgroundColor = "green";
+        document.querySelector("#d").style.height = "50px";
+        document.querySelector("#d").innerHTML = `<h1>Title</h1>`;
+    </script>
 
-    <input type="text"/>
+    <script>
+        "use strict";
+        let v1;// local undefined
+        var v2;// global undefined
+
+        v1 = 20;// number, int
+        v1 = "tom";// string
+        v2 = 22;
+        {// block, scope, walls, world
+            let v3;// local
+            var v4;// global
+            v3 = 3;
+            v4 = 4;
+
+            console.log(v3);
+            console.log(v4);
+
+            let v5 = 10; // local
+            // world 1
+        }
+
+        {// block scope world 2
+            let v3;//local
+            v3 = 9;
+            console.log(v3);
+            //console.log(v5);
+            console.log(v4);
+            var v4;
+
+        }
+
+    </script>
+
+    <script>
+        "use strict";
+        console.log(v2);
+        console.log(v1);
+
+        v2 = "tom";
+        v2 = 'tom';
+
+        let age1 = 20;
+        let name = "tom";
+
+        v2 = `tom`;
+
+        v2 = `name is ${name} the age is ${age1}`;
+        console.log(v2);
+
+        //object
+        v2 = {
+            name: "Tom",
+            age: 20,
+            grade: 96.6,
+        };
+
+        console.log(v2.grade);
+        // array
+        v2 = [96.6, 60, 50, 40];
+        console.log(v2.length);
+
+        console.log(v2[1]);
+
+        for (let i = 0; i < v2.length; i++) {
+            console.log(v2[i]);
+        }
+        // function
+        // way 1
+        function func1(p1, p2) {
+            return p1 + p2;
+        }
+        console.log(func1(2.3, 7));
+
+        v2 = func1;//
+        console.log(v2(2.3, 3));
+        // way 2 arrow function
+        v2 = (p1, p2) => {
+            return p1 * p2;
+        };
+
+        console.log(v2(2, 3));
+
+        // map() create a new array
+        v2 = [96.6, 60, 50, 40];
+
+        let v6;
+        v6 = v2.map((x) => {
+            return x + 10;
+        });
+
+        console.log(v2);
+        console.log(v6);
+
+        function func2(g)
+        {
+            if (g >= 90) {
+                return "A";
+            }
+            else
+            {
+                return "Not A";
+            }
+        }
+        v6 = v2.map(func2);
+        console.log(v6);
+
+    </script>
+
+    <img id="img1" src="static/head1.png" style="height:200px;" />
+    <img id="img2" src="static/a.svg" style="height:200px;" />
+    <img id="img3" src="static/b.svg" style="height:200px;" />
+
+    <input type="text" />
     <button id="btn1" class="btn btn-primary">Change</button>
 
     <script>
@@ -48,8 +162,7 @@
         // if you do not have intellicode, you need to install Visual Studio Enterprise edition
         let btn = document.querySelector("#btn1");
 
-        function btnClicked()
-        {
+        function btnClicked() {
             alert("button click!");
         }
 
