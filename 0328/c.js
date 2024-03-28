@@ -17,18 +17,18 @@ async function sc()
     let cc = document.querySelector("#cc");
 
     let opts = {
-        type: "line",//line, bar
+        type: "pie",//line, bar
         data: {
             labels:rj.map(x=>x.st),
-            dataset: [{
+            datasets: [{
                 data: rj.map(x => x.p),
                 label: "Population",
             },],
         },
     };
 
-    if (chart != null)
-    {
+   if (chart != null)
+   {
         chart.destroy();
     }
 
