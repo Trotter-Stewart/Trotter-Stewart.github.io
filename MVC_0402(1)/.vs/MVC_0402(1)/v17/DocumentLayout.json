@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\MIS3033\\Trotter-Stewart.github.io\\MVC_0402(1)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73AAE143-E864-4E79-8327-0811F27E6C25}|MVC_0402(1)\\MVC_0402(1).csproj|c:\\mis3033\\trotter-stewart.github.io\\mvc_0402(1)\\mvc_0402(1)\\mvc_0402(1).csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{73AAE143-E864-4E79-8327-0811F27E6C25}|MVC_0402(1)\\MVC_0402(1).csproj|solutionrelative:mvc_0402(1)\\mvc_0402(1).csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{73AAE143-E864-4E79-8327-0811F27E6C25}|MVC_0402(1)\\MVC_0402(1).csproj|c:\\mis3033\\trotter-stewart.github.io\\mvc_0402(1)\\mvc_0402(1)\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{73AAE143-E864-4E79-8327-0811F27E6C25}|MVC_0402(1)\\MVC_0402(1).csproj|solutionrelative:mvc_0402(1)\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73AAE143-E864-4E79-8327-0811F27E6C25}|MVC_0402(1)\\MVC_0402(1).csproj|c:\\mis3033\\trotter-stewart.github.io\\mvc_0402(1)\\mvc_0402(1)\\controllers\\bcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73AAE143-E864-4E79-8327-0811F27E6C25}|MVC_0402(1)\\MVC_0402(1).csproj|solutionrelative:mvc_0402(1)\\controllers\\bcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{73AAE143-E864-4E79-8327-0811F27E6C25}|MVC_0402(1)\\MVC_0402(1).csproj|c:\\mis3033\\trotter-stewart.github.io\\mvc_0402(1)\\mvc_0402(1)\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73AAE143-E864-4E79-8327-0811F27E6C25}|MVC_0402(1)\\MVC_0402(1).csproj|solutionrelative:mvc_0402(1)\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73AAE143-E864-4E79-8327-0811F27E6C25}|MVC_0402(1)\\MVC_0402(1).csproj|c:\\mis3033\\trotter-stewart.github.io\\mvc_0402(1)\\mvc_0402(1)\\data\\studentdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73AAE143-E864-4E79-8327-0811F27E6C25}|MVC_0402(1)\\MVC_0402(1).csproj|solutionrelative:mvc_0402(1)\\data\\studentdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73AAE143-E864-4E79-8327-0811F27E6C25}|MVC_0402(1)\\MVC_0402(1).csproj|c:\\mis3033\\trotter-stewart.github.io\\mvc_0402(1)\\mvc_0402(1)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73AAE143-E864-4E79-8327-0811F27E6C25}|MVC_0402(1)\\MVC_0402(1).csproj|solutionrelative:mvc_0402(1)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73AAE143-E864-4E79-8327-0811F27E6C25}|MVC_0402(1)\\MVC_0402(1).csproj|c:\\mis3033\\trotter-stewart.github.io\\mvc_0402(1)\\mvc_0402(1)\\views\\home\\p2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73AAE143-E864-4E79-8327-0811F27E6C25}|MVC_0402(1)\\MVC_0402(1).csproj|solutionrelative:mvc_0402(1)\\views\\home\\p2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,19 +26,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 252,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StudentDB.cs",
-              "DocumentMoniker": "C:\\MIS3033\\Trotter-Stewart.github.io\\MVC_0402(1)\\MVC_0402(1)\\Data\\StudentDB.cs",
-              "RelativeDocumentMoniker": "MVC_0402(1)\\Data\\StudentDB.cs",
-              "ToolTip": "C:\\MIS3033\\Trotter-Stewart.github.io\\MVC_0402(1)\\MVC_0402(1)\\Data\\StudentDB.cs",
-              "RelativeToolTip": "MVC_0402(1)\\Data\\StudentDB.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "BController.cs",
+              "DocumentMoniker": "C:\\MIS3033\\Trotter-Stewart.github.io\\MVC_0402(1)\\MVC_0402(1)\\Controllers\\BController.cs",
+              "RelativeDocumentMoniker": "MVC_0402(1)\\Controllers\\BController.cs",
+              "ToolTip": "C:\\MIS3033\\Trotter-Stewart.github.io\\MVC_0402(1)\\MVC_0402(1)\\Controllers\\BController.cs",
+              "RelativeToolTip": "MVC_0402(1)\\Controllers\\BController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T00:21:39.68Z",
+              "WhenOpened": "2024-04-02T14:48:52.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "P2.cshtml",
+              "DocumentMoniker": "C:\\MIS3033\\Trotter-Stewart.github.io\\MVC_0402(1)\\MVC_0402(1)\\Views\\Home\\P2.cshtml",
+              "RelativeDocumentMoniker": "MVC_0402(1)\\Views\\Home\\P2.cshtml",
+              "ToolTip": "C:\\MIS3033\\Trotter-Stewart.github.io\\MVC_0402(1)\\MVC_0402(1)\\Views\\Home\\P2.cshtml",
+              "RelativeToolTip": "MVC_0402(1)\\Views\\Home\\P2.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T14:44:32.314Z",
               "EditorCaption": ""
             },
             {
@@ -53,48 +62,22 @@
               "RelativeDocumentMoniker": "MVC_0402(1)\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\MIS3033\\Trotter-Stewart.github.io\\MVC_0402(1)\\MVC_0402(1)\\Controllers\\HomeController.cs",
               "RelativeToolTip": "MVC_0402(1)\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-02T00:09:06.993Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\MIS3033\\Trotter-Stewart.github.io\\MVC_0402(1)\\MVC_0402(1)\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "MVC_0402(1)\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\MIS3033\\Trotter-Stewart.github.io\\MVC_0402(1)\\MVC_0402(1)\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "MVC_0402(1)\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAABcAAAAAAAAAAAAswCIAAAAeAAAA",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAEwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-02T00:09:36.18Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\MIS3033\\Trotter-Stewart.github.io\\MVC_0402(1)\\MVC_0402(1)\\Program.cs",
-              "RelativeDocumentMoniker": "MVC_0402(1)\\Program.cs",
-              "ToolTip": "C:\\MIS3033\\Trotter-Stewart.github.io\\MVC_0402(1)\\MVC_0402(1)\\Program.cs",
-              "RelativeToolTip": "MVC_0402(1)\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T00:02:10.374Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MVC_0402(1)",
-              "DocumentMoniker": "C:\\MIS3033\\Trotter-Stewart.github.io\\MVC_0402(1)\\MVC_0402(1)\\MVC_0402(1).csproj",
-              "RelativeDocumentMoniker": "MVC_0402(1)\\MVC_0402(1).csproj",
-              "ToolTip": "C:\\MIS3033\\Trotter-Stewart.github.io\\MVC_0402(1)\\MVC_0402(1)\\MVC_0402(1).csproj",
-              "RelativeToolTip": "MVC_0402(1)\\MVC_0402(1).csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-02T00:04:08.085Z",
               "EditorCaption": ""
             }
           ]
