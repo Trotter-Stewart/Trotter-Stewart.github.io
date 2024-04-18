@@ -7,20 +7,44 @@
       "RelativeMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|solutionrelative:lc_mvc2_m\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|c:\\mis3033\\trotter-stewart.github.io\\lc_mvc2_m\\lc_mvc2_m\\views\\summary\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|solutionrelative:lc_mvc2_m\\views\\summary\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|c:\\mis3033\\trotter-stewart.github.io\\lc_mvc2_m\\lc_mvc2_m\\controllers\\summarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|solutionrelative:lc_mvc2_m\\controllers\\summarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|c:\\mis3033\\trotter-stewart.github.io\\lc_mvc2_m\\lc_mvc2_m\\views\\enrollment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|solutionrelative:lc_mvc2_m\\views\\enrollment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|c:\\mis3033\\trotter-stewart.github.io\\lc_mvc2_m\\lc_mvc2_m\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|solutionrelative:lc_mvc2_m\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|c:\\mis3033\\trotter-stewart.github.io\\lc_mvc2_m\\lc_mvc2_m\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|solutionrelative:lc_mvc2_m\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|c:\\mis3033\\trotter-stewart.github.io\\lc_mvc2_m\\lc_mvc2_m\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|solutionrelative:lc_mvc2_m\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|c:\\mis3033\\trotter-stewart.github.io\\lc_mvc2_m\\lc_mvc2_m\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|solutionrelative:lc_mvc2_m\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|c:\\mis3033\\trotter-stewart.github.io\\lc_mvc2_m\\lc_mvc2_m\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|solutionrelative:lc_mvc2_m\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|c:\\mis3033\\trotter-stewart.github.io\\lc_mvc2_m\\lc_mvc2_m\\wwwroot\\js\\1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|solutionrelative:lc_mvc2_m\\wwwroot\\js\\1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|c:\\mis3033\\trotter-stewart.github.io\\lc_mvc2_m\\lc_mvc2_m\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|solutionrelative:lc_mvc2_m\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|c:\\mis3033\\trotter-stewart.github.io\\lc_mvc2_m\\lc_mvc2_m\\data\\studb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|solutionrelative:lc_mvc2_m\\data\\studb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|c:\\mis3033\\trotter-stewart.github.io\\lc_mvc2_m\\lc_mvc2_m\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|solutionrelative:lc_mvc2_m\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|c:\\mis3033\\trotter-stewart.github.io\\lc_mvc2_m\\lc_mvc2_m\\lc_mvc2_m.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|solutionrelative:lc_mvc2_m\\lc_mvc2_m.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +54,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 252,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\Views\\Summary\\Index.cshtml",
+              "RelativeDocumentMoniker": "LC_MVC2_M\\Views\\Summary\\Index.cshtml",
+              "ToolTip": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\Views\\Summary\\Index.cshtml",
+              "RelativeToolTip": "LC_MVC2_M\\Views\\Summary\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T04:15:21.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SummaryController.cs",
+              "DocumentMoniker": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\Controllers\\SummaryController.cs",
+              "RelativeDocumentMoniker": "LC_MVC2_M\\Controllers\\SummaryController.cs",
+              "ToolTip": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\Controllers\\SummaryController.cs",
+              "RelativeToolTip": "LC_MVC2_M\\Controllers\\SummaryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:15:10.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\Views\\Enrollment\\Index.cshtml",
+              "RelativeDocumentMoniker": "LC_MVC2_M\\Views\\Enrollment\\Index.cshtml",
+              "ToolTip": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\Views\\Enrollment\\Index.cshtml",
+              "RelativeToolTip": "LC_MVC2_M\\Views\\Enrollment\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T04:14:36.966Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -44,60 +107,100 @@
               "RelativeDocumentMoniker": "LC_MVC2_M\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "LC_MVC2_M\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAswCMAAAAsAAAA",
+              "ViewState": "AQIAADoAAAAAAAAAAAAUwE0AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-15T22:40:05.976Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "EnrollmentController.cs",
+              "DocumentMoniker": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\Controllers\\EnrollmentController.cs",
+              "RelativeDocumentMoniker": "LC_MVC2_M\\Controllers\\EnrollmentController.cs",
+              "ToolTip": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\Controllers\\EnrollmentController.cs",
+              "RelativeToolTip": "LC_MVC2_M\\Controllers\\EnrollmentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:14:26.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "LC_MVC2_M\\Views\\Course\\Index.cshtml",
+              "ToolTip": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "LC_MVC2_M\\Views\\Course\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T04:13:56.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "LC_MVC2_M\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "LC_MVC2_M\\Controllers\\CourseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:13:46.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\Views\\Profile\\Index.cshtml",
+              "RelativeDocumentMoniker": "LC_MVC2_M\\Views\\Profile\\Index.cshtml",
+              "ToolTip": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\Views\\Profile\\Index.cshtml",
+              "RelativeToolTip": "LC_MVC2_M\\Views\\Profile\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T04:13:04.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "LC_MVC2_M\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "LC_MVC2_M\\Controllers\\ProfileController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:12:31.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "1.js",
+              "DocumentMoniker": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\wwwroot\\js\\1.js",
+              "RelativeDocumentMoniker": "LC_MVC2_M\\wwwroot\\js\\1.js",
+              "ToolTip": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\wwwroot\\js\\1.js",
+              "RelativeToolTip": "LC_MVC2_M\\wwwroot\\js\\1.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-16T14:55:13.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "LC_MVC2_M\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\Controllers\\HomeController.cs",
               "RelativeToolTip": "LC_MVC2_M\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAowBMAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAB5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T22:39:41.419Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StuDB.cs",
-              "DocumentMoniker": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\Data\\StuDB.cs",
-              "RelativeDocumentMoniker": "LC_MVC2_M\\Data\\StuDB.cs",
-              "ToolTip": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\Data\\StuDB.cs",
-              "RelativeToolTip": "LC_MVC2_M\\Data\\StuDB.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T22:26:27.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\Program.cs",
-              "RelativeDocumentMoniker": "LC_MVC2_M\\Program.cs",
-              "ToolTip": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\Program.cs",
-              "RelativeToolTip": "LC_MVC2_M\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T22:15:50.412Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LC_MVC2_M.csproj",
-              "DocumentMoniker": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\LC_MVC2_M.csproj",
-              "RelativeDocumentMoniker": "LC_MVC2_M\\LC_MVC2_M.csproj",
-              "ToolTip": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\LC_MVC2_M.csproj",
-              "RelativeToolTip": "LC_MVC2_M\\LC_MVC2_M.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-15T22:17:05.141Z"
+              "WhenOpened": "2024-04-15T22:39:41.419Z"
             }
           ]
         }

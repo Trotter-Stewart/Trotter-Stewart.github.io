@@ -9,6 +9,21 @@ namespace LC_MVC2_M.Controllers
 
         StuDB db = new StuDB();// create database connection
 
+        //
+        public JsonResult GetC() //function, action, WebApi
+        {
+            //var r = db.Courses.Where(x=>x.Id.Contains("33")).Select(x=>new {cid=x.Id,cn=x.Name, cHours=x.CreditHours});
+            var r = from x in db.Courses
+                    where x.Id.Contains("33")
+                    select new {cid=x.Id,cn=x.Name,cHours=x.CreditHours,};
+
+
+
+                ;
+            return Json(r);
+        }
+
+
         public JsonResult GetStus()
         {
            // var r = db.Students;

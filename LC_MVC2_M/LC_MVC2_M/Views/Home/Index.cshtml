@@ -38,11 +38,124 @@
 
 </head>
 
-<body>
+<body style="margin:10px;">
+    <div style="display:flex;flex-direction:row;">
+        <div>
+            <img src="~/img/logo.svg" style="height:100px;"/>
+        </div>
+
+        <div style="font-size:25px;font-weight:bold;color:dimgray;display:flex;flex-direction:row;align-items:center;">
+            MIS 3033 Students System
+            <br/>
+            Multiple Tables
+        </div>
+
+    </div>
+
+    <div>
+        <ul class="nav nav-tabs">
+            <li class="nav-item">
+                <a class="nav-link active" href="~/Home/index" target="_self">Student</a>
+            </li>
+
+            <li class="nav-item">
+                <a class="nav-link" href="~/Profile/Index" target="_self">Profile</a>
+            </li>
+
+            <li class="nav-item">
+                <a class="nav-link" href="~/Course/Index" target="_self">Course</a>
+            </li>
+
+            <li class="nav-item">
+                <a class="nav-link" href="~/Enrollment/Index" target="_self">Enrollment</a>
+            </li>
+
+            <li class="nav-item">
+                <a class="nav-link" href="~/Summary/Index" target="_self">Summary</a>
+            </li>
+
+        </ul>
+    </div>
+
+    <div class="alert alert-primary text-uppercase" style="width:400px;font-weight:bold;font-size:20px;">
+        Student Management
+    </div>
+
     Home Index
 
     <a href="~/Home/GetStus" class="btn btn-primary" target="_blank">Home GetStus</a>
+
     <a href="~/Home/ComMutTbl" class="btn btn-success" target="_blank">Home ComMutTbl</a>
+
+    <a href="~/Home/GetC" class="btn btn-warning" target="_blank">Home GetC</a>
+
+    <div style="display:flex;flex-direction:row;">
+
+        <div style="width:400px;" class="m-bd-callout m-bd-callout-primary">
+            <span style="font-size:15px;font-weight:bold;color:gray;">
+                Student Information
+            </span>
+
+            <div class="input-group">
+                <label class="input-group-text">Student ID</label>
+                <input class="form-control" type="text" id="sid"/>
+            </div>
+
+            <div class="input-group">
+                <label class="input-group-text">Name</label>
+                <input class="form-control" type="text" id="sname" />
+            </div>
+
+            <span>Favorite Place</span>
+
+            <div class="input-group">
+                <label class="input-group-text">Place name</label>
+                <input class="form-control" type="text" id="pname" />
+            </div>
+
+            <div class="input-group">
+                <label class="input-group-text">Lat</label>
+                <input class="form-control" type="text" id="plat" />
+            </div>
+
+            <div class="input-group">
+                <label class="input-group-text">Lon</label>
+                <input class="form-control" type="text" id="plon" />
+            </div>
+
+            <div class="input-group">
+                <label class="input-group-text">DOB</label>
+                <input class="form-control" type="date" id="sdob" />
+            </div>
+            
+            <div style="margin-top:10px;" class="btn-group">
+
+                <button id= "addbtn" class="btn btn-primary">
+                    Add
+                </button>
+
+                <button id="editbtn" class="btn btn-warning">
+                    Edit
+                </button>
+
+                <button id="deletebtn" class="btn btn-danger">
+                    Delete
+                </button>
+
+            </div>
+
+            <div id="statusdiv"></div>
+
+        </div>
+
+        <div id="mapdiv" style="width:500px;height:400px;margin-left:10px;border-radius:20px;">
+            MAP
+        </div>
+
+    </div>
+
+    <script src="~/js/1.js"></script>
+
 </body>
 
 </html>
