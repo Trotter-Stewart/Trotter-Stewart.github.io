@@ -1,4 +1,5 @@
 ﻿using LC_MVC2_M.Data;
+using LC_MVC2_M.Models;
 using Microsoft.AspNetCore.Mvc;
 
 
@@ -8,6 +9,46 @@ namespace LC_MVC2_M.Controllers
     {
 
         StuDB db = new StuDB();// create database connection
+
+        public JsonResult AddStu(string sid, string sname, string place, string dob, double lat, double lon)
+        {
+            
+                Student stu;
+
+                stu = db.Students.Where(x => x.Id == sid).FirstOrDefault(); //check if already exists
+
+                if (stu != null)
+                {
+                    return Json(new { status = "fail", mes = "Already exists" });
+                }
+                stu = new Student();
+                stu.Id = sid;
+                stu.Name = sname;
+                stu.FavPlace = place;
+                stu.Dob = dob;
+                stu.Lat = lat;
+                stu.Lon = lon;
+                db.Students.Add(stu);
+                db.SaveChanges();
+
+                return Json(new { status = "success", mes = "Added" });
+            
+            
+        }
+            public JsonResult GetAllStus() //funtion, action, Web API
+        {
+            var r = db.Students.Select(x => new
+            {
+                id=x.Id,
+                name=x.Name,
+                dob=DateTime.Parse(x.Dob).ToString("yyyy-MM-dd"),
+                favPlace=x.FavPlace,
+                lat=x.Lat,
+                lon=x.Lon,
+            });
+            return Json(r);
+        }
+
 
         //
         public JsonResult GetC() //function, action, WebApi
