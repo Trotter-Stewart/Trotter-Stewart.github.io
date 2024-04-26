@@ -1,11 +1,13 @@
 ﻿"use strict";
 
+let LOADT = null;
+
 {// start block
 
     let grid = null; //js variable for the table
     let tbldiv = document.querySelector("#tbldiv");
 
-    async function LoadTable()
+    async function LoadTable()// local
     {
         //form data for parameters
         let fd = new FormData();
@@ -115,6 +117,8 @@
     }// end of loadtabe function
 
     LoadTable();// call show table funtion
+
+    LOADT = LoadTable;
 
 
 

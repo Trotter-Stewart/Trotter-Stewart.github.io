@@ -1,5 +1,7 @@
 ﻿"use strict";
 
+
+//add 
 {//start block
 
     let addbtn = document.querySelector("#addbtn");
@@ -39,11 +41,27 @@
         // success fail
         if (rj.status=="success")
         {//
-            Swal.fire("success");
+            LOADT(); // reload the table
+
+            opts =
+            {
+                title:"Success",
+                text: rj.mes,
+                icon:"success",
+            };
+
+            Swal.fire(opts);
         }
         else
         {
-            Swal.fire("fail");
+            opts =
+            {
+                title: "Fail",
+                text: rj.mes,
+                icon: "error",
+            };
+
+            Swal.fire(opts);
         }
         // Update the table
 

@@ -9,7 +9,71 @@ namespace LC_MVC2_M.Controllers
     {
 
         StuDB db = new StuDB();// create database connection
+        //delete
+        public JsonResult DeleteStu(string sid)       //, string sname, string place, string dob, double lat, double lon)
+        {
 
+            Student stu;
+
+            stu = db.Students.Where(x => x.Id == sid).FirstOrDefault(); //check if already exists
+
+            if (stu == null)// No Such Student Record
+            {
+                return Json(new { status = "fail", mes = $"Student ID {sid} DOES NOT exist in the database!" });
+            }
+            //stu = new Student();  WE DO NOT ADD A NEW STUDENT
+
+            //stu.Id = sid; // can not edit or modify the primary key
+            //stu.Name = sname;
+            //stu.FavPlace = place;
+            //stu.Dob = dob;
+            //stu.Lat = lat;
+            //stu.Lon = lon;
+
+            //db.Students.Add(stu);// add to the table RAM
+
+            db.Students.Remove(stu);
+
+            db.SaveChanges();// persist save to file
+
+            return Json(new { status = "success", mes = $"Student ID {sid} deleted successfully!" });
+
+
+        }
+
+
+        //edit student
+        public JsonResult EditStu(string sid, string sname, string place, string dob, double lat, double lon)
+        {
+
+            Student stu;
+
+            stu = db.Students.Where(x => x.Id == sid).FirstOrDefault(); //check if already exists
+
+            if (stu == null)// No Such Student Record
+            {
+                return Json(new { status = "fail", mes = $"Student ID {sid} DOES NOT exist in the database!" });
+            }
+            //stu = new Student();  WE DO NOT ADD A NEW STUDENT
+
+            //stu.Id = sid; // can not edit or modify the primary key
+            stu.Name = sname;
+            stu.FavPlace = place;
+            stu.Dob = dob;
+            stu.Lat = lat;
+            stu.Lon = lon;
+
+            //db.Students.Add(stu);// add to the table RAM
+
+            db.SaveChanges();// persist save to file
+
+            return Json(new { status = "success", mes = $"Student ID {sid} edited successfully!" });
+
+
+        }
+
+
+        //add student
         public JsonResult AddStu(string sid, string sname, string place, string dob, double lat, double lon)
         {
             
@@ -19,19 +83,22 @@ namespace LC_MVC2_M.Controllers
 
                 if (stu != null)
                 {
-                    return Json(new { status = "fail", mes = "Already exists" });
+                    return Json(new { status = "fail", mes = $"Student ID {sid} already exists in the database!" });
                 }
                 stu = new Student();
+
                 stu.Id = sid;
                 stu.Name = sname;
                 stu.FavPlace = place;
                 stu.Dob = dob;
                 stu.Lat = lat;
                 stu.Lon = lon;
-                db.Students.Add(stu);
-                db.SaveChanges();
 
-                return Json(new { status = "success", mes = "Added" });
+                db.Students.Add(stu);// add to the table RAM
+
+                db.SaveChanges();// persist save to file
+
+                return Json(new { status = "success", mes = $"Student ID {sid} added successfully!" });
             
             
         }
