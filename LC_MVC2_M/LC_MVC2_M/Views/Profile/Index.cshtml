@@ -81,10 +81,56 @@
         Profile Management
     </div>   
 
-    <div>
-        <input type="color" class="form-control-color"/>
+    <div class="m-bd-callout m-bd-callout-success" style="width:500px">
+
+        <div class="input-group">
+            <label>Student</label>
+
+            <select class="form-select" id="sid">
+                <option> S101: Tom</option>
+                <option>S102: Kelly</option>
+            </select>
+
+        </div>
+
+        <div class="input-group">
+            <label class="input-group-text">Height (in): </label>
+
+            <input id="sh" type="text" class="form-control" />
+
+        </div>
+
+        <div class="input-group">
+            <label class="input-group-text">Weight (lbs): </label>
+
+            <input id="sw" type="text" class="form-control" />
+
+        </div>
+
+        <div class="input-group">
+            <label class="input-group-text">Favorite color: </label>
+
+            <input id="sc" type="color" class="form-control form-control-color" />
+
+        </div>
+
+        <div style="margin-top:10px;" class="btn-group">
+
+            <button id="addbtn" class="btn btn-primary">Add</button>
+
+            <button id="editbtn" class="btn btn-warning">Edit</button>
+
+            <button id="deletebtn" class="btn btn-danger">Delete</button>
+
+        </div>
+
     </div>
 
+    <div id="tbldiv"></div>
+
+    <script src="~/js/p3.js"></script>"
+    <script src="~/js/p2.js"></script>"
+    <script src="~/js/profile.js"></script>"
 </body>
 
 </html>

@@ -38,38 +38,58 @@
 </head>
 
 <body style="margin:10px;">
+
+    <a href="~/Fourth/Index" target="_blank" class="btn btn-danger">
+        Show Table
+    </a>
+
     <a class="btn btn-primary" href="~/Home/Index" target="_blank">Home Index</a>
 
     <div style="width:500px;" class="m-bd-callout m-bd-callout-primary">
         <div class="input-group">
             <label class="input-group-text">Student ID</label>
-            <input id="sid" type="text" class="form-control"/>
+            <input value="T1001" id="sid" type="text" class="form-control"/>
         </div>
 
         <div class="input-group">
             <label class="input-group-text">Name</label>
-            <input id="sname" type="text" class="form-control"/>
+            <input value="Tom" id="sname" type="text" class="form-control"/>
         </div>
 
         <div class="input-group">
             <label class="input-group-text">Age</label>
-            <input id="sage" type="text" class="form-control" />
+            <input value="20" id="sage" type="text" class="form-control" />
         </div>
 
         <div class="input-group">
             <label class="input-group-text">Grade</label>
-            <input id="sgrade" type="text" class="form-control" />
+            <input value="96.6" id="sgrade" type="text" class="form-control" />
         </div>
 
         <br/>
+        <div class="btn-group">
+            <button id="addbtn" class="btn btn-info">
+                Add
+            </button>
 
-        <button id="addbtn" class="btn btn-info">
-            Add
-        </button>
+            <button id="editbtn" class="btn btn-success">
+                Edit
+            </button>
+
+            <button id="deletebtn" class="btn btn-danger">
+                Delete
+            </button>
+        </div>
+        
 
     </div>
 
-    <div id="r"></div>
+    <div id="r" class="m-bd-callout m-bd-callout-warning" style="width:500px;"></div>
+
+    <script src="~/js/3.js">
+
+
+    </script>
 
     <script src="~/js/1.js"></script>
 </body>

@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|c:\\mis3033\\trotter-stewart.github.io\\lc_mvc2_m\\lc_mvc2_m\\wwwroot\\js\\2.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|solutionrelative:lc_mvc2_m\\wwwroot\\js\\2.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|c:\\mis3033\\trotter-stewart.github.io\\lc_mvc2_m\\lc_mvc2_m\\wwwroot\\js\\p3.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|solutionrelative:lc_mvc2_m\\wwwroot\\js\\p3.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|c:\\mis3033\\trotter-stewart.github.io\\lc_mvc2_m\\lc_mvc2_m\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|solutionrelative:lc_mvc2_m\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|c:\\mis3033\\trotter-stewart.github.io\\lc_mvc2_m\\lc_mvc2_m\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|solutionrelative:lc_mvc2_m\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|c:\\mis3033\\trotter-stewart.github.io\\lc_mvc2_m\\lc_mvc2_m\\wwwroot\\js\\5.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|solutionrelative:lc_mvc2_m\\wwwroot\\js\\5.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|c:\\mis3033\\trotter-stewart.github.io\\lc_mvc2_m\\lc_mvc2_m\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|solutionrelative:lc_mvc2_m\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|c:\\mis3033\\trotter-stewart.github.io\\lc_mvc2_m\\lc_mvc2_m\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|solutionrelative:lc_mvc2_m\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|c:\\mis3033\\trotter-stewart.github.io\\lc_mvc2_m\\lc_mvc2_m\\wwwroot\\js\\p2.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|solutionrelative:lc_mvc2_m\\wwwroot\\js\\p2.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|c:\\mis3033\\trotter-stewart.github.io\\lc_mvc2_m\\lc_mvc2_m\\wwwroot\\js\\1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|solutionrelative:lc_mvc2_m\\wwwroot\\js\\1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|c:\\mis3033\\trotter-stewart.github.io\\lc_mvc2_m\\lc_mvc2_m\\wwwroot\\js\\profile.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|solutionrelative:lc_mvc2_m\\wwwroot\\js\\profile.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|c:\\mis3033\\trotter-stewart.github.io\\lc_mvc2_m\\lc_mvc2_m\\models\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6C6690-B82A-4F63-A5EF-DBDAE9B72E36}|LC_MVC2_M\\LC_MVC2_M.csproj|solutionrelative:lc_mvc2_m\\models\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 252,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,67 +42,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "5.js",
-              "DocumentMoniker": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\wwwroot\\js\\5.js",
-              "RelativeDocumentMoniker": "LC_MVC2_M\\wwwroot\\js\\5.js",
-              "ToolTip": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\wwwroot\\js\\5.js",
-              "RelativeToolTip": "LC_MVC2_M\\wwwroot\\js\\5.js",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAAB8AAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-04-25T14:54:07.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "LC_MVC2_M\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "LC_MVC2_M\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAJEAAAAAAAAAAAAAAKAAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-25T14:12:35.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "2.js",
-              "DocumentMoniker": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\wwwroot\\js\\2.js",
-              "RelativeDocumentMoniker": "LC_MVC2_M\\wwwroot\\js\\2.js",
-              "ToolTip": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\wwwroot\\js\\2.js",
-              "RelativeToolTip": "LC_MVC2_M\\wwwroot\\js\\2.js",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAOAAAA",
+              "Title": "p3.js",
+              "DocumentMoniker": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\wwwroot\\js\\p3.js",
+              "RelativeDocumentMoniker": "LC_MVC2_M\\wwwroot\\js\\p3.js",
+              "ToolTip": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\wwwroot\\js\\p3.js",
+              "RelativeToolTip": "LC_MVC2_M\\wwwroot\\js\\p3.js",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwDUAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-04-25T14:12:21.154Z",
+              "WhenOpened": "2024-05-02T14:20:09.065Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "1.js",
-              "DocumentMoniker": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\wwwroot\\js\\1.js",
-              "RelativeDocumentMoniker": "LC_MVC2_M\\wwwroot\\js\\1.js",
-              "ToolTip": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\wwwroot\\js\\1.js",
-              "RelativeToolTip": "LC_MVC2_M\\wwwroot\\js\\1.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-04-25T14:12:19.715Z",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\Views\\Profile\\Index.cshtml",
+              "RelativeDocumentMoniker": "LC_MVC2_M\\Views\\Profile\\Index.cshtml",
+              "ToolTip": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\Views\\Profile\\Index.cshtml",
+              "RelativeToolTip": "LC_MVC2_M\\Views\\Profile\\Index.cshtml",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAAAIQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T14:05:50.638Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "LC_MVC2_M\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "LC_MVC2_M\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "LC_MVC2_M\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "LC_MVC2_M\\Controllers\\ProfileController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCcAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T14:12:14.544Z",
+              "WhenOpened": "2024-05-02T14:04:54.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "p2.js",
+              "DocumentMoniker": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\wwwroot\\js\\p2.js",
+              "RelativeDocumentMoniker": "LC_MVC2_M\\wwwroot\\js\\p2.js",
+              "ToolTip": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\wwwroot\\js\\p2.js",
+              "RelativeToolTip": "LC_MVC2_M\\wwwroot\\js\\p2.js",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwCUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-02T14:04:17.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "profile.js",
+              "DocumentMoniker": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\wwwroot\\js\\profile.js",
+              "RelativeDocumentMoniker": "LC_MVC2_M\\wwwroot\\js\\profile.js",
+              "ToolTip": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\wwwroot\\js\\profile.js",
+              "RelativeToolTip": "LC_MVC2_M\\wwwroot\\js\\profile.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-02T14:03:35.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\Models\\Profile.cs",
+              "RelativeDocumentMoniker": "LC_MVC2_M\\Models\\Profile.cs",
+              "ToolTip": "C:\\MIS3033\\Trotter-Stewart.github.io\\LC_MVC2_M\\LC_MVC2_M\\Models\\Profile.cs",
+              "RelativeToolTip": "LC_MVC2_M\\Models\\Profile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T14:05:19.58Z",
               "EditorCaption": ""
             }
           ]
